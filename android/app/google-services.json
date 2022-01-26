@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "281953298013",
+    "project_id": "govtapp-f848b",
+    "storage_bucket": "govtapp-f848b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281953298013:android:f930fa2c7e40da5e714fb4",
+        "android_client_info": {
+          "package_name": "com.flutterflow.govtapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281953298013-bgebk6l92slv7c7s6s6tf7rq16kpmlas.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.govtapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "281953298013-1nkmn4ed7g9c4ea50ul9f5l5m1jqbrag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzVhcMAOglcjsjOWUa5YoKh--tRuBMNog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281953298013-1nkmn4ed7g9c4ea50ul9f5l5m1jqbrag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281953298013-1f3tbpvpk69lk9tvlchuohhcji3sulqr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.govtapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
